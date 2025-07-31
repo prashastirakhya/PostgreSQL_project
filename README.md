@@ -1,1 +1,1 @@
-# PostgreSQL_project
+# Data Analysis on Netflix data using SQL
